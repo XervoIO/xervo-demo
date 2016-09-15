@@ -1,0 +1,28 @@
+{
+  "name": "xervo-demo",
+  "version": "1.0.0",
+  "description": "A sample hapi app running on Xervo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XervoIO/XervoDemo.git"
+  },
+  "keywords": [
+    "hapi",
+    "xervo"
+  ],
+  "author": "Tara Z. Manicsic <tara.manicsic@progress.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XervoIO/xervo-demo/issues"
+  },
+  "homepage": "https://github.com/XervoIO/xervo-demo#readme",
+  "dependencies": {
+    "hapi": "15.0.3",
+    "inert": "4.0.2"
+  }
+}
